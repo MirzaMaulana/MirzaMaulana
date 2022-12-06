@@ -30,7 +30,7 @@
   <tr>
     <td> <img src="https://github-readme-stats.vercel.app/api?username=MirzaMaulana&show_icons=true&theme=dark&locale=en&hide_border=true" alt="MirzaMaulana" /></td>
     <td>
-    **🛠 &nbsp;Tech Stack**
+    🛠 &nbsp;Tech Stack
 
 - Languages: &nbsp;
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
