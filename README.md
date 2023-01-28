@@ -8,7 +8,7 @@
 <a href="https://web.facebook.com/profile.php?id=100058546485490"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
 <a href="https://www.instagram.com/miirzaa9_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
 <a href="aoriexd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<a href="https://t.me/MirzaMaulana15"><img src="https://img.shields.io/badge/Telegram-D14836?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
+<a href="https://t.me/MirzaMaulana15"><img src="https://img.shields.io/badge/Telegram-3672d1?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MirzaMaulana&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22MirzaMaulana" /> </p>
