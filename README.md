@@ -1,9 +1,8 @@
 
-<!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
-<p align="center"> <h1 align="center"> Hi, I am Mirza Maulana Fauzian Risky <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /></h1> </p>
+<img width=100% title="MirzaMaulana" alt="MirzaMaulana" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mirza-Maulana-Fauzian-Risky&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<p align="center">
+<a href="https://mirza-maulana.netlify.app"/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+</p>
 <p align="center">
 <a href="https://web.facebook.com/profile.php?id=100058546485490"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
 <a href="https://www.instagram.com/miirzaa9_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
@@ -26,32 +25,27 @@
 - ⚡ Fun fact: I'm a great meme creator. 
 
 ***
-**⚙️ &nbsp;GitHub Analytics**
-<table style="width:100%">
-  <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=MirzaMaulana&show_icons=true&theme=dark&locale=en&hide_border=true" alt="MirzaMaulana" />       </td>
-    <td>![](https://github-readme-stats.vercel.app/api/top-langs/ username=MirzaMaulana&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</td>
-    <td>
-    🛠 &nbsp;Tech Stack
+<div align="center">
+         <h2>🛠 &nbsp;Tech Stack</h2>
+         <p  align="center">
+                  <img src="https://img.shields.io/badge/JavaScript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" height="27">
+                  <img src="https://img.shields.io/badge/CSS-4DA6FF?style=for-the-badge&logo=css3&logoColor=white" height="27">
+                  <img src="https://img.shields.io/badge/HTML-801500?style=for-the-badge&logo=html5&logoColor=white" height="27">
+                  <img src="https://img.shields.io/badge/PHP-6600CC?style=for-the-badge&logo=PHP&logoColor=white" height="27">
+                  <img src="https://img.shields.io/badge/Laravel-801500?style=for-the-badge&logo=laravel&logoColor=white" height="27">
+                  <img src="https://img.shields.io/badge/Bootstrap-2A0080?style=for-the-badge&logo=bootstrap&logoColor=white" height="27">
+                  <img src="https://img.shields.io/badge/TailwindCSS-24AFFF?style=for-the-badge&logo=tailwindcss&logoColor=white" height="27">
+                  <img src="https://img.shields.io/badge/ReactJS-00BBFF?style=for-the-badge&logo=react&logoColor=white" height="27">               
+         </p>
+</div> 
 
-- Languages: &nbsp;
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=Php)
+ ***
 
-- Frameworks: &nbsp;
-  ![React.js](https://img.shields.io/badge/-React.js-333333?style=flat&logo=react&logoColor=007ACC)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Tailwindcss](https://img.shields.io/badge/-Tailwindcss-333333?style=flat&logo=tailwindcss&logoColor=skyblue)
-  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
-
-- Databases:  &nbsp;
-  ![MySql](https://img.shields.io/badge/-MySql-333333?style=flat&logo=mysql)
-    </td>
-  </tr>
-</table>
-
+<div align="center">
+<a href="http://www.github.com/MirzaMaulana"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=MirzaMaulana&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="MirzaMaulana GitHub stats"/></a>
+<a href="http://www.github.com/MirzaMaulana"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaMaulana&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+<a href="http://www.github.com/MirzaMaulana"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MirzaMaulana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+</div>
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
