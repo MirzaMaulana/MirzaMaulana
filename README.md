@@ -29,7 +29,8 @@
 **⚙️ &nbsp;GitHub Analytics**
 <table style="width:100%">
   <tr>
-    <td> <img src="https://github-readme-stats.vercel.app/api?username=MirzaMaulana&show_icons=true&theme=dark&locale=en&hide_border=true" alt="MirzaMaulana" /></td>
+    <td> <img src="https://github-readme-stats.vercel.app/api?username=MirzaMaulana&show_icons=true&theme=dark&locale=en&hide_border=true" alt="MirzaMaulana" />       </td>
+    <td>![](https://github-readme-stats.vercel.app/api/top-langs/ username=MirzaMaulana&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)</td>
     <td>
     🛠 &nbsp;Tech Stack
 
