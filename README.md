@@ -14,7 +14,7 @@
 
  <p>I am a Software Engineering student of <a href="https://smkmuh1-skh.sch.id/">SMK Muhammadiyah 1 Sukoharjo</a>. Coding has been my passion and hobby since i was 15 years old.</p>
 
-- 🔭 I Aspire to be a Frontend Web Developer.
+- 🔭 I Aspire to be a Fullstack Web Developer.
 
 - 🌱 I'm currently learning to create a dynamic and reponsive web.
 
