@@ -28,12 +28,12 @@
 <div align="center">
          <h2>🛠 &nbsp;Tech Stack</h2>
          <p  align="center">
-                  <img src="https://img.shields.io/badge/JavaScript-E6E600?style=for-the-badge&logo=javascript&logoColor=white" height="27">
-                  <img src="https://img.shields.io/badge/CSS-4DA6FF?style=for-the-badge&logo=css3&logoColor=white" height="27">
+                  <img src="https://img.shields.io/badge/JavaScript-E6E600?style=for-the-badge&logo=javascript&logoColor=black" height="27">
+                  <img src="https://img.shields.io/badge/CSS3-001A4D?style=for-the-badge&logo=css3&logoColor=white" height="27">
                   <img src="https://img.shields.io/badge/HTML-801500?style=for-the-badge&logo=html5&logoColor=white" height="27">
                   <img src="https://img.shields.io/badge/PHP-6600CC?style=for-the-badge&logo=PHP&logoColor=white" height="27">
                   <img src="https://img.shields.io/badge/Laravel-801500?style=for-the-badge&logo=laravel&logoColor=white" height="27">
-                  <img src="https://img.shields.io/badge/Bootstrap-2A0080?style=for-the-badge&logo=bootstrap&logoColor=white" height="27">
+                  <img src="https://img.shields.io/badge/Bootstrap-54246B?style=for-the-badge&logo=bootstrap&logoColor=white" height="27">
                   <img src="https://img.shields.io/badge/TailwindCSS-24AFFF?style=for-the-badge&logo=tailwindcss&logoColor=white" height="27">
                   <img src="https://img.shields.io/badge/ReactJS-00BBFF?style=for-the-badge&logo=react&logoColor=white" height="27">               
          </p>
