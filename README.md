@@ -34,7 +34,7 @@
                   <img src="https://img.shields.io/badge/PHP-6600CC?style=for-the-badge&logo=PHP&logoColor=white" height="27">
                   <img src="https://img.shields.io/badge/Laravel-801500?style=for-the-badge&logo=laravel&logoColor=white" height="27">
                   <img src="https://img.shields.io/badge/Bootstrap-54246B?style=for-the-badge&logo=bootstrap&logoColor=white" height="27">
-                  <img src="https://img.shields.io/badge/TailwindCSS-00E5FF?style=for-the-badge&logo=tailwindcss&logoColor=white" height="27">           
+                  <img src="https://img.shields.io/badge/TailwindCSS-00E5FF?style=for-the-badge&logo=tailwindcss&logoColor=black" height="27">           
          </p>
 </div> 
 
