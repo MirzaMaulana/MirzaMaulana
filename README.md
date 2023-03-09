@@ -43,8 +43,10 @@
 <div align="center">
 <a href="http://www.github.com/MirzaMaulana"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=MirzaMaulana&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="MirzaMaulana GitHub stats"/></a>
 <a href="http://www.github.com/MirzaMaulana"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaMaulana&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-<a href="http://www.github.com/MirzaMaulana"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MirzaMaulana&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" width = "100%"/></a>
+<a href="http://www.github.com/MirzaMaulana"/><img alt="TYP Github Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MirzaMaulana&show_icons=true&count_private=true&theme=react&hide_border=false&border=914E72&stroke=914E72&background=0D1117&ring=914E72&fire=914E72" width = "100%"/></a>
 </div>
+
+
 <div align="center">
 
 ### Show some ❤️ by starring some of the repositories!
