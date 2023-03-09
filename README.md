@@ -1,5 +1,4 @@
-
-<img width=100% title="MirzaMaulana" alt="MirzaMaulana" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=9,6,18&height=180&section=header&text=MirzaMaulanaFauzianRisky&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width=100% title="MirzaMaulana" alt="MirzaMaulana" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4B0082,483D8B,9,6&height=180&section=header&text=MirzaMaulanaFauzianRisky&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center">
 <a href="https://mirza-maulana.netlify.app"/><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
