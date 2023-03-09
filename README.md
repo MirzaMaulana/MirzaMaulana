@@ -12,8 +12,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MirzaMaulana&label=Profile%20Visits&color=blue&style=plastic%22%20alt=%22MirzaMaulana" /> </p>
 
- <p>I am a Software Engineering student of <a href="https://smkmuh1-skh.sch.id/">SMK Muhammadiyah 1 Sukoharjo</a>. Coding has been my passion and hobby since i was 15 years old.</p>
-
+ <p>As a passionate software engineering student at <a href="https://smkmuh1-skh.sch.id/">SMK Muhammadiyah 1 Sukoharjo</a>, my focus is on web development. I've been hooked on coding since the tender age of 15 and have since dedicated myself to mastering the craft of creating dynamic and responsive web applications.</p>
+ 
 - 🔭 I Aspire to be a Fullstack Web Developer.
 
 - 🌱 I'm currently learning to create a dynamic and reponsive web.
