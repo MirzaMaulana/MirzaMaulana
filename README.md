@@ -28,13 +28,14 @@
 <div align="center">
          <h2>🛠 &nbsp;Tech Stack</h2>
          <p  align="center">
-                  <img src="https://img.shields.io/badge/JavaScript-E6E600?style=for-the-badge&logo=javascript&logoColor=black" height="27">
-                  <img src="https://img.shields.io/badge/CSS3-001A4D?style=for-the-badge&logo=css3&logoColor=white" height="27">
-                  <img src="https://img.shields.io/badge/HTML-801500?style=for-the-badge&logo=html5&logoColor=white" height="27">
-                  <img src="https://img.shields.io/badge/PHP-6600CC?style=for-the-badge&logo=PHP&logoColor=white" height="27">
-                  <img src="https://img.shields.io/badge/Laravel-801500?style=for-the-badge&logo=laravel&logoColor=white" height="27">
-                  <img src="https://img.shields.io/badge/Bootstrap-54246B?style=for-the-badge&logo=bootstrap&logoColor=white" height="27">
-                  <img src="https://img.shields.io/badge/TailwindCSS-00E5FF?style=for-the-badge&logo=tailwindcss&logoColor=white" height="27">           
+                  <img src="https://img.shields.io/badge/JavaScript-E6E600?style=for-the-badge&logo=javascript&logoColor=black&color=E6E600" height="27">
+                  <img src="https://img.shields.io/badge/CSS3-001A4D?style=for-the-badge&logo=css3&logoColor=white&color=001A4D" height="27">
+                  <img src="https://img.shields.io/badge/HTML-801500?style=for-the-badge&logo=html5&logoColor=white&color=801500" height="27">
+                  <img src="https://img.shields.io/badge/PHP-6600CC?style=for-the-badge&logo=PHP&logoColor=white&color=6600CC" height="27">
+                  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white&color=FF2D20" height="27">
+                  <img src="https://img.shields.io/badge/Bootstrap-54246B?style=for-the-badge&logo=bootstrap&logoColor=white&color=54246B" height="27">
+                  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white&color=06B6D4" height="27">
+                  <img src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=React&logoColor=black&color=62DAFB" height="27"> 
          </p>
 </div> 
 
