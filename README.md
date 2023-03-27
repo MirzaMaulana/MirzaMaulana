@@ -16,7 +16,7 @@
  
 - 🔭 I Aspire to be a Fullstack Web Developer.
 
-- 🌱 I'm currently learning to create a dynamic and reponsive web.
+- 🌱 I'm currently learning to create a dynamic and responsive web.
 
 - 💬 Any Question ? Ask me on Instagram or Facebook.
 
