@@ -3,11 +3,12 @@
 Hello, I am a student majoring in Software Engineering at <a href="https://smkmuh1-skh.sch.id/">SMK Muhammadiyah 1 Sukoharjo</a> who is passionate about technology and aspiring to become a front-end web developer. I am very excited and dedicated to achieving this goal.
 
 <div> 
+  <a href="https://mirza-maulana.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=wordpress&logoColor=white"/> </a>
   <a href="https://web.facebook.com/profile.php?id=100058546485490"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
-<a href="https://www.instagram.com/miirzaa9_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
-<a href="aoriexd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
-<a href="https://t.me/MirzaMaulana15"><img src="https://img.shields.io/badge/Telegram-3672d1?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
- <a href="https://www.linkedin.com/in/mirza-maulana-fauzian-risky-9ba121270/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+  <a href="https://www.instagram.com/miirzaa9_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+  <a href="mirzamaulana.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+  <a href="https://t.me/MirzaMaulana15"><img src="https://img.shields.io/badge/Telegram-3672d1?style=for-the-badge&logo=telegram&logoColor=white"/> </a>
+  <a href="https://www.linkedin.com/in/mirza-maulana-fauzian-risky-9ba121270/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 </div>
 
 <h3><img src="https://img.icons8.com/color/48/000000/lightning-bolt--v1.png" align="center" width="24" /> &nbsp; What I currently do</h3>
