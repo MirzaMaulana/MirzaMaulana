@@ -1,6 +1,6 @@
 ## Hi There, <a href="mirza-maulana.netlify.app">Mirza Maulana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">!
 
-I am a passionate software engineering student at <a href="https://smkmuh1-skh.sch.id/">SMK Muhammadiyah 1 Sukoharjo</a>, with a focus on web development. Since the age of 15, I have been hooked on coding and have dedicated myself to mastering the craft of creating dynamic and responsive web applications.
+Hello, I am a student majoring in Software Engineering at <a href="https://smkmuh1-skh.sch.id/">SMK Muhammadiyah 1 Sukoharjo</a> who is passionate about technology and aspiring to become a front-end web developer. I am very excited and dedicated to achieving this goal.
 
 <div> 
   <a href="https://web.facebook.com/profile.php?id=100058546485490"><img src="https://img.shields.io/badge/Facebook-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a>
