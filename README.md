@@ -14,7 +14,7 @@ Hello, I am a student majoring in Software Engineering at <a href="https://smkmu
 <h3>⭐️ &nbsp; What I currently do</h3>
 
 - 🔭 I Aspire to be a Fullstack Web Developer.
-- 🌱 I'm currently learning to create a dynamic and responsive web.
+- 🌱 I'm currently learning React js.
 - 💬 Any Question ? Ask me on Instagram or Facebook.
 - 😄 Pronoun: He/Him
 - ⚡ Fun fact: I'm a great meme creator. 
