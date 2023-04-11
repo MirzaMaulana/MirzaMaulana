@@ -11,12 +11,12 @@ Hello, I am a student majoring in Software Engineering at <a href="https://smkmu
   <a href="https://www.linkedin.com/in/mirza-maulana-fauzian-risky-9ba121270/"><img src="https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
 </div>
 
-<h3><img src="https://img.icons8.com/color/48/000000/lightning-bolt--v1.png" align="center" width="24" /> &nbsp; What I currently do</h3>
+<h3>⭐️ &nbsp; What I currently do</h3>
 
 - 🔭 I Aspire to be a Fullstack Web Developer.
 - 🌱 I'm currently learning to create a dynamic and responsive web.
 - 💬 Any Question ? Ask me on Instagram or Facebook.
-- 😄 Pronoun: He/His
+- 😄 Pronoun: He/Him
 - ⚡ Fun fact: I'm a great meme creator. 
 
  
