@@ -1,4 +1,4 @@
-## Hi There, <a href="mirza-maulana.netlify.app">Mirza Maulana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">!
+## Hi There, Im <a href="mirza-maulana.netlify.app">Mirza Maulana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">!
 
 Hello, I am a student majoring in Software Engineering at <a href="https://smkmuh1-skh.sch.id/">SMK Muhammadiyah 1 Sukoharjo</a> who is passionate about technology and aspiring to become a front-end web developer. I am very excited and dedicated to achieving this goal.
 
