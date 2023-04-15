@@ -13,7 +13,6 @@ Hello, I am a student majoring in Software Engineering at <a href="https://smkmu
 
 <h3>⭐️ &nbsp; What I currently do</h3>
 
-- 🔭 I Aspire to be a Front End Web Developer.
 - 🌱 I'm currently learning React js.
 - 💬 Any Question ? Ask me on Instagram or Facebook.
 - 😄 Pronoun: He/Him
