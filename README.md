@@ -19,7 +19,7 @@ Hello, I am a student majoring in Software Engineering at <a href="https://smkmu
 - ⚡ Fun fact: I'm a great meme creator. 
 
  
-[![Visitor Count](https://img.shields.io/badge/dynamic/json?label=Visitors&color=blue&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2FMirzaMaulana%2Freadme)]()
+![](https://komarev.com/ghpvc/?username=MirzaMaulana&color=yellow)
 [![GitHub followers](https://img.shields.io/github/followers/MirzaMaulana?label=Followers&color=blue&logo=github)]()
 [![GitHub stars](https://img.shields.io/github/stars/MirzaMaulana?label=Stars&color=blue&logo=github)]()
 
