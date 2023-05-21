@@ -20,8 +20,8 @@ Hello, I am a student majoring in Software Engineering at <a href="https://smkmu
 
  
 ![](https://komarev.com/ghpvc/?username=MirzaMaulana&color=yellow)
-[![GitHub followers](https://img.shields.io/github/followers/MirzaMaulana?label=Followers&color=blue&logo=github)]()
-[![GitHub stars](https://img.shields.io/github/stars/MirzaMaulana?label=Stars&color=blue&logo=github)]()
+[![GitHub followers](https://img.shields.io/github/followers/MirzaMaulana?label=Followers&color=yellow&logo=github)]()
+[![GitHub stars](https://img.shields.io/github/stars/MirzaMaulana?label=Stars&color=yellow&logo=github)]()
 
 <div style="display: inline_block">
   <h3><img src="https://img.icons8.com/color/48/000000/computer-support.png" align="center" width="24" />&nbsp; Tech Stack</h3>  
