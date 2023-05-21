@@ -13,7 +13,7 @@ Hello, I am a student majoring in Software Engineering at <a href="https://smkmu
 
 <h3>⭐️ &nbsp; What I currently do</h3>
 
-- 🌱 I'm currently learning React js.
+- 🌱 I'm currently learning Java Script.
 - 💬 Any Question ? Ask me on Instagram or Facebook.
 - 😄 Pronoun: He/Him
 - ⚡ Fun fact: I'm a great meme creator. 
