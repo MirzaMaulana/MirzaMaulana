@@ -19,7 +19,6 @@ Hello, I am a student majoring in Software Engineering at <a href="https://smkmu
 - ⚡ Fun fact: I'm a great meme creator. 
 
  
-![](https://komarev.com/ghpvc/?username=MirzaMaulana&color=yellow)
 [![GitHub followers](https://img.shields.io/github/followers/MirzaMaulana?label=Followers&color=yellow&logo=github)]()
 [![GitHub stars](https://img.shields.io/github/stars/MirzaMaulana?label=Stars&color=yellow&logo=github)]()
 
