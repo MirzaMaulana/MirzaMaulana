@@ -14,7 +14,7 @@ Hello, I am a student majoring in Software Engineering at <a href="https://smkmu
 
 - 🌱 I'm currently learning Java Script.
 - 💬 Any Question ? Ask me on Telegram.
-
+- 🥅 2023 Goals: Want to become a Junior Web Developer
 - 😄 Pronoun: He/Him.
 - ⚡ Fun fact: I'm a great meme creator. 
 
