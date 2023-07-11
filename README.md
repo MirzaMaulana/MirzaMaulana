@@ -1,6 +1,6 @@
 ## Hi There, Im <a href="mirza-maulana.netlify.app">Mirza Maulana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">!
 
-Hello, I am a student majoring in Software Engineering at <a href="https://smkmuh1-skh.sch.id/">SMK Muhammadiyah 1 Sukoharjo</a> who is passionate about technology and aspiring to become a front-end web developer. I am very excited and dedicated to achieving this goal.
+Hello, I am a student majoring in Software Engineering at <a href="https://smkmuh1-skh.sch.id/">SMK Muhammadiyah 1 Sukoharjo</a> who is passionate about technology and aspiring to become a front-end developer. I am very excited and dedicated to achieving this goal.
 
 <div> 
   <a href="https://mirza-maulana.netlify.app/"><img alt="MirzaMaulana" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /> </a>
