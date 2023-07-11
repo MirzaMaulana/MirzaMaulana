@@ -12,9 +12,9 @@ Hello, I am a student majoring in Software Engineering at <a href="https://smkmu
 
 <h3>⭐️ &nbsp; What I currently do</h3>
 
-- 🌱 I'm currently learning Java Script.
+- 🌱 I'm currently learning React Js.
 - 💬 Any Question ? Ask me on Telegram.
-- 🥅 2023 Goals: Want to become a Junior Web Developer
+- 🥅 2023 Goals: Want to become a Junior Front End Developer
 - 😄 Pronoun: He/Him.
 - ⚡ Fun fact: I'm a great meme creator. 
 
@@ -29,7 +29,7 @@ Hello, I am a student majoring in Software Engineering at <a href="https://smkmu
   <img align="center" alt="Mirza-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Mirza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mirza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mirza-SASS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img align="center" alt="Mirza-JQUERY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
 <img align="center" alt="Mirza-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
  <img align="center" alt="Mirza-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
   <img align="center" alt="Mirza-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
