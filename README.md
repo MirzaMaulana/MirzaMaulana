@@ -12,9 +12,9 @@ Hello, I am a student majoring in Software Engineering at <a href="https://smkmu
 
 <h3>⭐️ &nbsp; What I currently do</h3>
 
-- 🌱 I'm currently learning React Js.
+- 🌱 I'm currently learning Laravel.
 - 💬 Any Question ? Ask me on Telegram.
-- 🥅 2023 Goals: Want to become a Junior Front End Developer
+- 🥅 2023 Goals: Want to become a Junior Web Developer
 - 😄 Pronoun: He/Him.
 - ⚡ Fun fact: I'm a great meme creator. 
 
