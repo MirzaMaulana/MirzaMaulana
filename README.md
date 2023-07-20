@@ -12,37 +12,13 @@ Hello, I am a student majoring in Software Engineering at <a href="https://smkmu
 
 <h3>⭐️ &nbsp; What I currently do</h3>
 
-- 🌱 I'm currently learning Laravel.
+- 🌱 I'm currently learning TypeScript.
 - 💬 Any Question ? Ask me on Telegram.
-- 🥅 2023 Goals: Want to become a Junior Web Developer
+- 🥅 2023 Goals: Want to become a Junior Front End Dev
 - 😄 Pronoun: He/Him.
 - ⚡ Fun fact: I'm a great meme creator. 
 
  
 [![GitHub followers](https://img.shields.io/github/followers/MirzaMaulana?label=Followers&color=yellow&logo=github)]()
 [![GitHub stars](https://img.shields.io/github/stars/MirzaMaulana?label=Stars&color=yellow&logo=github)]()
-
-<div style="display: inline_block">
-  <h3><img src="https://img.icons8.com/color/48/000000/computer-support.png" align="center" width="24" />&nbsp; Tech Stack</h3>  
-  <img align="center" alt="Mirza-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mirza-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-  <img align="center" alt="Mirza-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mirza-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Mirza-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Mirza-JQUERY" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
-<img align="center" alt="Mirza-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
- <img align="center" alt="Mirza-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
-  <img align="center" alt="Mirza-Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg">
-</div> 
-  
-  ##
-
-
-<div align="center">
-<a href="http://www.github.com/MirzaMaulana"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=MirzaMaulana&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="MirzaMaulana GitHub stats"/></a>
-<a href="http://www.github.com/MirzaMaulana"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaMaulana&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-</div>
-
-<h4 align="center">
-Show some ❤️ by starring some of the repositories!
-</h4>
+![](https://komarev.com/ghpvc/?username=MirzaMaulana&label=Visitor&color=yellow)
