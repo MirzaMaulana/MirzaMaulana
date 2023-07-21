@@ -22,3 +22,11 @@ Hello, I am a student majoring in Software Engineering at <a href="https://smkmu
 [![GitHub followers](https://img.shields.io/github/followers/MirzaMaulana?label=Followers&color=yellow&logo=github)]()
 [![GitHub stars](https://img.shields.io/github/stars/MirzaMaulana?label=Stars&color=yellow&logo=github)]()
 ![](https://komarev.com/ghpvc/?username=MirzaMaulana&label=Visitor&color=yellow)
+
+ ##
+
+
+<div align="center">
+<a href="http://www.github.com/MirzaMaulana"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=MirzaMaulana&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="MirzaMaulana GitHub stats"/></a>
+<a href="http://www.github.com/MirzaMaulana"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaMaulana&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
+</div>
