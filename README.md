@@ -1,4 +1,4 @@
-## Hi There, Im <a href="mirza-maulana.netlify.app">Mirza Maulana</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="24px" height="24px">!
+## <img width=100% title="MirzaMaulana" alt="MirzaMaulana" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4B0082,483D8B,9,6&height=180&section=header&text=MirzaMaulanaFauzianRisky&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 Hello, I am a student majoring in Software Engineering at <a href="https://smkmuh1-skh.sch.id/">SMK Muhammadiyah 1 Sukoharjo</a> who is passionate about technology and aspiring to become a front-end developer. I am very excited and dedicated to achieving this goal.
 
