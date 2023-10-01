@@ -12,7 +12,7 @@ Hello, I am a student majoring in Software Engineering at <a href="https://smkmu
 
 <h3>⭐️ &nbsp; What I currently do</h3>
 
-- 🌱 I'm currently learning Next JS.
+- 🌱 I'm currently learning Next JS and TypeScript.
 - 💬 Any Question ? Ask me on Telegram.
 - 🥅 2023 Goals: Want to become a Junior Front End Dev
 - 😄 Pronoun: He/Him.
