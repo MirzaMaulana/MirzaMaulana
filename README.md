@@ -1,6 +1,26 @@
-## <img width=100% title="MirzaMaulana" alt="MirzaMaulana" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4B0082,483D8B,9,6&height=180&section=header&text=MirzaMaulanaFauzianRisky&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+### Hey there! 👋 Welcome to my GitHub profile!
 
-<div align="center">
-<a href="http://www.github.com/MirzaMaulana"><img width="60%" src="https://github-readme-stats.vercel.app/api?username=MirzaMaulana&hide=&count_private=true&bg_color=0D1117&theme=react&hide_border=true&show_icons=true" alt="MirzaMaulana GitHub stats"/></a>
-<a href="http://www.github.com/MirzaMaulana"><img alt="TYP Top Language" width="38.25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MirzaMaulana&langs_count=10&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></a>
-</div>
+![Views](https://komarev.com/ghpvc/?username=MirzaMaulana&color=blueviolet)
+
+I'm **Mirza Maulana Fauzian Risky** – here to explore, experiment, and have a little fun with coding! 🎉
+
+This GitHub is a place for my creative coding experiments, cool ideas, and random projects. I’m a curious developer who loves to tinker with different languages and frameworks, but I’m not here to take things too seriously. You’ll find everything from simple projects to quirky ideas that make coding fun for me.
+
+### About Me 🌱
+- **Location**: Karanganyar, Jawa Tengah
+- **Background**: Computer science enthusiast with a passion for software engineering.
+- **Languages & Frameworks**: React, Laravel, JavaScript, TypeScript, and a bit of everything in between.
+- **Fun Fact**: I also enjoy content creation, photography, and the occasional timelapse video. 📸
+
+### Why This GitHub? 🚀
+This is my playground! I'm here to:
+- Experiment with code without pressure.
+- Share small projects and concepts that interest me.
+- Connect with other coding enthusiasts and learn something new.
+
+### Let's Connect! 💬
+Feel free to reach out if you want to chat or collaborate on a fun project. Let’s keep coding lighthearted and enjoyable! 😊
+
+[![GitHub](https://img.shields.io/badge/-My_GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MirzaMaulana) [![Instagram](https://img.shields.io/badge/-My_Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle) [![TikTok](https://img.shields.io/badge/-My_TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@your_tiktok_handle)
+
+Thanks for stopping by – happy browsing!
