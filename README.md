@@ -15,6 +15,6 @@ This GitHub is a place for my creative coding experiments, cool ideas, and rando
 ### Let's Connect! 💬
 Feel free to reach out if you want to chat or collaborate on a fun project. Let’s keep coding lighthearted and enjoyable! 😊
 
-[![GitHub](https://img.shields.io/badge/-My_GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MirzaMaulana) [![Instagram]
+[![GitHub](https://img.shields.io/badge/-My_GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MirzaMaulana) [![Instagram](https://img.shields.io/badge/-My_Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mierzf)
 
 Thanks for stopping by – happy browsing!
