@@ -12,15 +12,9 @@ This GitHub is a place for my creative coding experiments, cool ideas, and rando
 - **Languages & Frameworks**: React, Laravel, JavaScript, TypeScript, and a bit of everything in between.
 - **Fun Fact**: I also enjoy content creation, photography, and the occasional timelapse video. 📸
 
-### Why This GitHub? 🚀
-This is my playground! I'm here to:
-- Experiment with code without pressure.
-- Share small projects and concepts that interest me.
-- Connect with other coding enthusiasts and learn something new.
-
 ### Let's Connect! 💬
 Feel free to reach out if you want to chat or collaborate on a fun project. Let’s keep coding lighthearted and enjoyable! 😊
 
-[![GitHub](https://img.shields.io/badge/-My_GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MirzaMaulana) [![Instagram](https://img.shields.io/badge/-My_Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram_handle) [![TikTok](https://img.shields.io/badge/-My_TikTok-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@your_tiktok_handle)
+[![GitHub](https://img.shields.io/badge/-My_GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MirzaMaulana) [![Instagram]
 
 Thanks for stopping by – happy browsing!
